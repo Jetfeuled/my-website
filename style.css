@@ -6,16 +6,46 @@
 
 body {
 
+    background-color: #46336B;
+    
+    
+
 }
 
+main {
+
+    font-family: Zelda DX TT BRK;
+}
 header {
 
 }
 
 h1 {
-
+    color: white;
 }
 
+ul {
+    color: white;
+    font-family: Zelda DX TT BRK;
+}
+
+li {
+    margin-left: 5em;
+    color: crimson;
+}
+
+p {
+    color: white;
+}
+
+a {
+    color: crimson;
+}
+
+
 footer {
+
+    font-style: oblique;
+    font-family: 'Courier New', Courier, monospace;
 
 }
