@@ -7,16 +7,28 @@
 body {
 
     background-color: #46336B;
-    
+    display: block;
+    padding: .25em 1em;
     
 
 }
 
 main {
 
-    font-family: Zelda DX TT BRK;
+    
 }
 header {
+
+    flex: auto;
+    flex-wrap: wrap;
+
+}
+
+nav {
+
+    background-color: orangered;
+    display: flex;
+    /*This is the css that controls the nav stuff*/
 
 }
 
@@ -26,7 +38,7 @@ h1 {
 
 ul {
     color: white;
-    font-family: Zelda DX TT BRK;
+   
 }
 
 li {
@@ -48,4 +60,18 @@ footer {
     font-style: oblique;
     font-family: 'Courier New', Courier, monospace;
 
+}
+
+#menu {
+
+    color: white;
+    list-style: none;
+    /*this is additional css for the nav menus*/
+}
+
+#main_image {
+
+    width: 100%;
+    max-width: 400px;
+/*this allows the image to be scaleable*/
 }
