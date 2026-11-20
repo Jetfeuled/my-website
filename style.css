@@ -26,7 +26,7 @@ header {
 
 nav {
 
-    background-color: orangered;
+    /*background-color: orangered;*/
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -77,3 +77,22 @@ footer {
     max-width: 400px;
 /*this allows the image to be scaleable*/
 }
+
+/*
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 16px;
+    padding: 20px;
+}*/
+
+.grid-item{
+
+    background-color: orangered;
+    border-radius: 8px;
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+.grid-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+} /*this is what causes the hover effect*/
