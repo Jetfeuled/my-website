@@ -79,6 +79,14 @@ footer {
 /*this allows the image to be scaleable*/
 }
 
+.top{
+
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    align-items: center;     /* Centers vertically */
+
+
+}
 
 .grid-container {
     display: grid;
