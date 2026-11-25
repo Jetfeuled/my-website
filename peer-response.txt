@@ -6,13 +6,13 @@ From BreAnna Taylor:
 
     2)Add more dynamic space between sections - margin spacing between the list and 
     your section about other Zelda titles would lead to easier readability. 
-
+    //done
 
 Things to also add 
 
-    3) 4 pages min 
+    3) 4 pages min //done
 
-    4) Google font
+    4) Google font // done
 
     5) icon from font awesome
 

@@ -1,7 +1,9 @@
+@import url('https://googleapis.com');
 * {
     margin: 0;
     padding: .25em;
-    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-family: 'Marmelad', sans-serif; /*the google font imported*/
+    /*font-family: Verdana, Arial, Helvetica, sans-serif;*/
 }
 
 body {
@@ -14,8 +16,14 @@ body {
 }
 
 main {
-
-    
+        color: white;
+        border: black solid;
+        display: grid;
+        justify-content: center; /* Centers horizontally */
+        align-items: center;     /* Centers vertically */
+        
+        background-image: url(wood.jpg);
+        
 }
 header {
 
@@ -38,6 +46,10 @@ h1 {
     color: white;
 }
 
+ol{
+    color: white;
+}
+
 ul {
     color: white;
    
@@ -49,6 +61,7 @@ li {
 }
 
 p {
+    
     color: white;
 }
 
@@ -61,6 +74,9 @@ footer {
 
     font-style: oblique;
     font-family: 'Courier New', Courier, monospace;
+    display: grid;
+    justify-content: center; /* Centers horizontally */
+    align-items: center;     /* Centers vertically */
 
 }
 
@@ -100,7 +116,7 @@ footer {
 }
 
 .grid-item{
-
+    border: black solid;
     border-radius: 8px;
     transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
 }
@@ -117,6 +133,13 @@ footer {
 
 }
 
+.final-boss{
+
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
 .grid-container img {
 
     width: 100%;
@@ -124,3 +147,4 @@ footer {
     aspect-ratio: 1 / 1;
 
 }
+
