@@ -1,0 +1,21 @@
+From BreAnna Taylor:
+
+    1)adding a li elements for your list of favorite things about the game 
+    - 
+    right now they are only appearing as separate lines, not li listed elements 
+
+    2)Add more dynamic space between sections - margin spacing between the list and 
+    your section about other Zelda titles would lead to easier readability. 
+
+
+Things to also add 
+
+    3) 4 pages min 
+
+    4) Google font
+
+    5) icon from font awesome
+
+    6) favicon
+
+    7) table added
