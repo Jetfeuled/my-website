@@ -18,6 +18,6 @@ Things to also add
 
     5) icon from font awesome //done
 
-    6) favicon
+    6) favicon //done
 
     7) table added
