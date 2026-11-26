@@ -8,7 +8,7 @@
 
 body {
 
-    background-color: #46336B;
+    background-color: #2e2247;
     display: block;
     padding: .25em 1em;
     
@@ -16,13 +16,14 @@ body {
 }
 
 main {
+
         color: white;
         border: black solid;
         display: grid;
         justify-content: center; /* Centers horizontally */
         align-items: center;     /* Centers vertically */
-        
         background-image: url(wood.jpg);
+        
         
 }
 header {
@@ -94,6 +95,15 @@ footer {
     max-width: 400px;
 /*this allows the image to be scaleable*/
 }
+
+.responsive-gif{
+
+    max-width: 100%;
+    height: auto;
+    display: block;
+    
+}
+
 
 .top{
 
