@@ -5,7 +5,6 @@ From BreAnna Taylor:
     right now they are only appearing as separate lines, not li listed elements 
     //done
 
-
     2)Add more dynamic space between sections - margin spacing between the list and 
     your section about other Zelda titles would lead to easier readability. 
     //done
@@ -17,7 +16,18 @@ Things to also add
     4) Google font // done
 
     5) icon from font awesome //done
+    //not sure what the instructions mean by it must be an icon but "not an emoji"
 
     6) favicon //done
+    //it's on all pages
 
-    7) table added
+    7) table added //done
+    //the table breaks if viewed on mobile or if you make the window too small. Gonna try to fix the layout of the table.
+
+    Notes about page:
+
+    - The website looks really good on mobile (with the exception of the table) 
+        would recommend testing it out
+    -If you click on the main icon (the game cover) it will take you back to home
+    -if you click on each of the boss icons on the boss page it will take you to the various boss pages.
+    
