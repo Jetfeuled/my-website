@@ -16,7 +16,7 @@ Things to also add
 
     4) Google font // done
 
-    5) icon from font awesome
+    5) icon from font awesome //done
 
     6) favicon
 
